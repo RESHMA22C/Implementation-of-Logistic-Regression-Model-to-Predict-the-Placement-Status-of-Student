@@ -109,14 +109,18 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-Placement data
+
 ![image](https://github.com/user-attachments/assets/dd52df2b-7a7a-4396-b3a3-dccf74b12078)
+
 
 ![image](https://github.com/user-attachments/assets/3f4cb1cb-d233-4de9-9fdb-f0ecab0d873c)
 
+
 ![image](https://github.com/user-attachments/assets/dcf01bcf-89b3-4f78-b99f-7bbb42af9303)
 
+
 ![image](https://github.com/user-attachments/assets/c7142b89-99e1-4690-97c6-d37f6580566b)
+
 
 ![image](https://github.com/user-attachments/assets/8551d3ab-6032-4334-8293-58101acb27b1)
 
